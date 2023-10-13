@@ -13,6 +13,7 @@
   <a href="https://twitter.com/drsuicune" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="drsuicune"/></a>
   <a href="https://www.youtube.com/@DrSuicune" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="drsuicune"/></a>
   <a href="https://steamcommunity.com/profiles/76561199522235469" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="drsuicune"/></a>
+  <a href="https://www.guilded.gg/u/drsuicune23" target="blank"><img align="center" src=" 	https://img.shields.io/badge/Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white" alt="drsuicune"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
