@@ -24,7 +24,7 @@
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udemy](https://camo.githubusercontent.com/b10841c7e1a339e8bf38dfcecbc5c270fb66c4ee4b73abacd77f3505148ee481/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4131303046463f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465)
 ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
