@@ -7,14 +7,6 @@
 
 - 🌱 I’m currently learning **JavaScript & Java**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.com/users/763446119312130058" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="drsuicune"/></a>
-  <a href="https://twitter.com/drsuicune" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="drsuicune"/></a>
-  <a href="https://www.youtube.com/@DrSuicune" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="drsuicune"/></a>
-  <a href="https://steamcommunity.com/profiles/76561199522235469" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="drsuicune"/></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![Javascript]( 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
